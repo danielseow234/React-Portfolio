@@ -1,0 +1,18 @@
+.hero {
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-pic {
+    margin-left: 15vw;
+    width: 25%;
+    min-width: 400px;
+    border-radius: 5%;
+}
+
+.hero-text{
+    margin-right: 20vw;
+    text-shadow: 3px 3px black;
+}

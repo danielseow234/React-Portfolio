@@ -1,0 +1,13 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+.shared {
+    background-image: url('/public/backdrop.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
