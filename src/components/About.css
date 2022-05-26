@@ -13,12 +13,31 @@
 }
 
 .sub {
-    margin-top: 50px;
-    background-color: rgba(0, 0, 0, 0.5);
     height: 80vh;
-    width: 40vw;
+    width: 45vw;
+
+    border-radius: 30px;
+
+    margin-top: 40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+
+.sub-title {
+    text-align: center;
 }
 
 .icon {
-    width: 400px;
+    font-size: 100px;
+}
+
+.lang-div {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.lang-txt {
+    margin-top: 30px;
+    text-align: center;
 }
