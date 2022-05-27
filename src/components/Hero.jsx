@@ -11,6 +11,6 @@ export default function Hero(){
                 <h2>Software Engineer</h2>
                 <p>2nd year student at Asia Pacific University, graduating in 2023.</p>
             </div>
-        </div> 
+        </div>
     )
 }
